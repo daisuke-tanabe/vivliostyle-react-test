@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/daisuke-tanabe/vivliostyle-react-test/static/css/main.073c9b0a.css",
-    "main.js": "/daisuke-tanabe/vivliostyle-react-test/static/js/main.89e16eee.js",
+    "main.js": "/daisuke-tanabe/vivliostyle-react-test/static/js/main.15c8de70.js",
     "static/js/787.cb35298b.chunk.js": "/daisuke-tanabe/vivliostyle-react-test/static/js/787.cb35298b.chunk.js",
     "index.html": "/daisuke-tanabe/vivliostyle-react-test/index.html",
     "main.073c9b0a.css.map": "/daisuke-tanabe/vivliostyle-react-test/static/css/main.073c9b0a.css.map",
-    "main.89e16eee.js.map": "/daisuke-tanabe/vivliostyle-react-test/static/js/main.89e16eee.js.map",
+    "main.15c8de70.js.map": "/daisuke-tanabe/vivliostyle-react-test/static/js/main.15c8de70.js.map",
     "787.cb35298b.chunk.js.map": "/daisuke-tanabe/vivliostyle-react-test/static/js/787.cb35298b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.89e16eee.js"
+    "static/js/main.15c8de70.js"
   ]
 }
